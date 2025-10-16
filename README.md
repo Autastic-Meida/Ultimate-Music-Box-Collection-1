@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/hone/assets/am_logo_banner_large.png" alt="Autastic Media Dev Team Logo" width="600"/>
+  <img src="../home/assets/am_logo_banner_large.png" alt="Autastic Media Dev Team Logo" width="600"/>
 </p>
 
 <p align="center"><em>Empowering autistic users through emotionally resonant, predictable, and accessible software.</em></p>
@@ -7,7 +7,7 @@
 <h1 align="center">Ultimate Music Box – Collection 1</h1>
 
 <p align="center">
-  <img src="../assets/LogImage.png" alt="Ultimate Music Box - Collection 1 Logo" width="500"/>
+  <img src="../home/assets/LogImage.png" alt="Ultimate Music Box - Collection 1 Logo" width="500"/>
 </p>
 
 ---
