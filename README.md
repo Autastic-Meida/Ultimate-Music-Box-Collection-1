@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/am_logo_banner_large.png" alt="Autastic Media Dev Team Logo" width="600"/>
+  <img src="/hone/assets/am_logo_banner_large.png" alt="Autastic Media Dev Team Logo" width="600"/>
 </p>
 
 <p align="center"><em>Empowering autistic users through emotionally resonant, predictable, and accessible software.</em></p>
@@ -57,3 +57,4 @@ This Music Box is designed for autistic users to relax and unwind. It is not a l
 Future learning editions may include licensing modules for deployment in Autistic Centres and Schools. These are preserved but dormant, and not part of the current collection.
 
 ---
+
