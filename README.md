@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../home/assets/am_logo_banner_large.png" alt="Autastic Media Dev Team Logo" width="600"/>
+  <img src="https://raw.githubusercontent.com/Autastic-Meida/home/main/assets/am_logo_banner_large.png" alt="Autastic Media Dev Team Logo" width="600"/>
 </p>
 
 <p align="center"><em>Empowering autistic users through emotionally resonant, predictable, and accessible software.</em></p>
@@ -7,7 +7,7 @@
 <h1 align="center">Ultimate Music Box – Collection 1</h1>
 
 <p align="center">
-  <img src="../home/assets/LogImage.png" alt="Ultimate Music Box - Collection 1 Logo" width="500"/>
+  <img src="https://raw.githubusercontent.com/Autastic-Meida/home/main/assets/LogImage.png" alt="Ultimate Music Box - Collection 1 Logo" width="500"/>
 </p>
 
 ---
@@ -57,4 +57,3 @@ This Music Box is designed for autistic users to relax and unwind. It is not a l
 Future learning editions may include licensing modules for deployment in Autistic Centres and Schools. These are preserved but dormant, and not part of the current collection.
 
 ---
-
